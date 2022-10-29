@@ -7,12 +7,12 @@
 <h2 align="left">GitHub Status </h2>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorbeyC&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NorbeyC&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NorbeyC&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorbeyC&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NorbeyC&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NorbeyC&theme=github)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NorbeyC&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NorbeyC&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NorbeyC&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NorbeyC&theme=github&utcOffset=8)
 
 
 <h2 align="left">Most Used Languages </h2>
@@ -31,7 +31,7 @@
     <tr valign="top">
       <td width="25%" align="center">
          <span><b>Python 3</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="65px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
         <span>Git</span><br><br><br>
