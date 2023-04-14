@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Norbey Cardona <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 <p  align ="left"> I'm a software engineer student 💻 who is passionate about software development and cybersecurity.</p>
 
-* 🧠 I’m currently studying on [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
+* 🧠 I’m currently studying on [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/)
 
 
 <h2 align="left">GitHub Status </h2>
